@@ -9,13 +9,13 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Initial login page to authinticate to Twitch with.
-![Login Page](liftoff-assignments/P3-Project_Planning/images/login.png)
+![Login Page](/images/login.png)
 
 Dashboard page that has access to chat as well as stream information.
-![Dashboard Page](liftoff-assignments/P3-Project_Planning/images/dashboard.png)
+![Dashboard Page](/images/dashboard.png)
 
 Commands page that has a list of all current commands and the ability to add new commands.
-![Commands Page](liftoff-assignments/P3-Project_Planning/images/commands.png )
+![Commands Page](/images/commands.png)
 
 ### Project Tracker
 
