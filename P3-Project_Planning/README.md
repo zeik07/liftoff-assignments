@@ -8,8 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Initial login page to authinticate to Twitch with.
+! Login Page /login.png
+
+Dashboard page that has access to chat as well as stream information.
+! Dashboard Page /dashboard.png
+
+Commands page that has a list of all current commands and the ability to add new commands.
+! Commands Page /commands.png
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Pivotal Tracker https://www.pivotaltracker.com/n/projects/2163288
