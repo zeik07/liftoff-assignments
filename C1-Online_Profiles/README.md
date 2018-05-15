@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/kevin-greene-432121164/)
 
 ### Resume
-[Resume](/C1-Online_Profile/resume/resume.pdf)
+[Resume](/C1-Online_Profiles/resume/Resume.pdf)
